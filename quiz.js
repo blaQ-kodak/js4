@@ -38,6 +38,20 @@ let questions = [
     choiceB : "Wrong",
     choiceC : "Correct",
     correct: "C"
+  },
+   {
+    question : "What is SQL stands for ?",
+    choiceA : "Wrong",
+    choiceB : "Correct",
+    choiceC : "Wrong",
+    correct: "B"
+  },
+  {
+    question : "What is c# stands for ?",
+    choiceA : "Wrong",
+    choiceB : "Wrong",
+    choiceC : "Correct",
+    correct: "C"
   }
 ];
 
